@@ -24,7 +24,7 @@ Goldbach's Conjecture is one of the oldest unsolved problems in number theory an
 
 ### Running the Program
 ```bash
-python goldbach.py
+python app.py
 ```
 
 ### Example Sessions
